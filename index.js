@@ -42,3 +42,4 @@ console.log(typeof {surname: "Shashkin",
 age: 31})
 console.log(typeof 24574857348634063485037475930n)
 console.log(typeof id)
+
